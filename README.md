@@ -5,9 +5,11 @@
 - **Matric ID**: 2123841
 
 ### About the Project:
-This is a simple calculator program written in Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The app runs in the terminal and allows users to input their choices in a straightforward way.
+This is a simple calculator app developed using Flutter. It allows users to perform basic arithmetic operations
+such as addition, subtraction, multiplication, and division. The app features a clean and minimalistic user inter 
+face with a clear separation of the equation and the result.
 
 ### Why This UI is Unique:
 - The app offers a minimalistic design.
-- Easy-to-follow prompts for users.
+- Clear distinction between the equation and the result.
 - Error handling for division by zero.
